@@ -1,0 +1,2 @@
+Pasta para arquivos estáticos do Dashboard Wiser.
+Mova o logo para cá para que ele apareça no site.
